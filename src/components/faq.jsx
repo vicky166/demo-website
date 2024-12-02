@@ -46,7 +46,7 @@ export default function FAQ() {
           Frequently asked questions
         </h2>
         
-        <p className="text-gray-600">What `&apos;` s happening around the World.</p>
+        <p className="text-gray-600">What&apos;s happening around the World.</p>
       </div>
 
       <div className="space-y-4">
