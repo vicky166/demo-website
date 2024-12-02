@@ -53,7 +53,7 @@ export default function Hero() {
           </div>
 
           <div className="relative">
-            <div className="absolute top-[50px] left-[-35px] sm:left-[-50px] md:left-[-80px] lg:left-[-35px] rounded-xl w-48 sm:w-64 md:w-80">
+            <div className="absolute top-[50px] left-[-35px] sm:left-[-50px] md:left-[-80px] lg:left-[-95px] rounded-xl w-48 sm:w-64 md:w-80">
               <div className="w-full h-full rounded-sm overflow-hidden">
                 <img
                   src="/img/Group 10.png"
@@ -71,13 +71,14 @@ export default function Hero() {
               />
             </div>
 
-            <div className="absolute top-12 right-4 transform translate-x-8 sm:translate-x-0">
-              <img
-                src="/img/Group 2.png"
-                alt="Decorative image"
-                className="object-cover w-16 h-16 sm:w-24 sm:h-24 md:w-32 md:h-32"
-              />
-            </div>
+            {/* <div className="absolute top-12 right-4 transform">
+  <img
+    src="/img/Group 2.png"
+    alt="Decorative image"
+    className="object-cover w-16 h-16 md:w-16 md:h-16 lg:w-24 lg:h-24"
+  />
+</div> */}
+
           </div>
         </div>
       </div>
