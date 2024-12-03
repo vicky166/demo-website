@@ -4,7 +4,7 @@ export default function Logos() {
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center py-8 border border-gray-300 rounded-lg">
           <div className="space-y-8">
-            <h2 className="text-3xl font-semibold text-gray-900 text-center lg:text-left">
+            <h2 className="text-3xl font-semibold ml-[50px] text-gray-900 text-center lg:text-left">
               Trusted by over 100+<br /> businesses worldwide!
             </h2>
           </div>

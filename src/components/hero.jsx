@@ -71,14 +71,13 @@ export default function Hero() {
               />
             </div>
 
-            {/* <div className="absolute top-12 right-4 transform">
-  <img
-    src="/img/Group 2.png"
-    alt="Decorative image"
-    className="object-cover w-16 h-16 md:w-16 md:h-16 lg:w-24 lg:h-24"
-  />
-</div> */}
-
+            <div className="absolute top-12 right-4 transform">
+              <img
+                src="/img/Group 2.png"
+                alt="Decorative image"
+                className=" object-cover w-16 h-16 md:w-16 md:h-16 lg:w-24 lg:h-24"
+              />
+            </div>
           </div>
         </div>
       </div>
